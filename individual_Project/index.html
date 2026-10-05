@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Tournament Schedule</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="main.js" defer></script>
+</head>
+
+<body>
+    <header>
+        <h1>Tournament Schedule</h1>
+        <label for="searchTypeSelection">Search:</label>
+        <select id="searchTypeSelection" name="searchType">
+            <option value="contestants">Contestants</option>
+            <option value="location">Location</option>
+            <option value="date">Date</option>
+        </select>
+
+        <input type="search" id="searchInput" name="inputString" placeholder="Search with event info.">
+    </header>
+
+    <section id="eventList">
+
+            
+            <div id="eventCardDiv"> <p>Loading events...</p> </div>
+    </section>
+</body>
+</html>

@@ -1,0 +1,242 @@
+[
+{
+"id": 1,
+"contestant1": "John Name",
+"contestant2": "Andrea Rodriguez",
+"location": "Anderson Event Venue, Room 125",
+"date": "2026-10-20",
+"time": "09:00"
+},
+{
+"id": 2,
+"contestant1": "Michael Chang",
+"contestant2": "Sarah Jenkins",
+"location": "Summit Convention Center, Hall B",
+"date": "2026-10-20",
+"time": "11:00"
+},
+{
+"id": 3,
+"contestant1": "David Smith",
+"contestant2": "Emily Taylor",
+"location": "Grand Banquet Hall, Suite A",
+"date": "2026-10-20",
+"time": "14:00"
+},
+{
+"id": 4,
+"contestant1": "John Anderson",
+"contestant2": "Jessica Williams",
+"location": "Metro Community Center, Room 4",
+"date": "2026-10-21",
+"time": "09:30"
+},
+{
+"id": 5,
+"contestant1": "James Brown",
+"contestant2": "Ashley Jones",
+"location": "Lexington Arts Center, Stage 2",
+"date": "2026-10-21",
+"time": "12:00"
+},
+{
+"id": 6,
+"contestant1": "William Miller",
+"contestant2": "Amanda Davis",
+"location": "Anderson Event Venue, Room 130",
+"date": "2026-10-21",
+"time": "15:30"
+},
+{
+"id": 7,
+"contestant1": "Charles Garcia",
+"contestant2": "Melissa Rodriguez",
+"location": "Summit Convention Center, Ballroom C",
+"date": "2026-10-22",
+"time": "10:00"
+},
+{
+"id": 8,
+"contestant1": "Joseph Martinez",
+"contestant2": "Stephanie Wilson",
+"location": "Grand Banquet Hall, Terrace Room",
+"date": "2026-10-22",
+"time": "13:00"
+},
+{
+"id": 9,
+"contestant1": "Thomas Robinson",
+"contestant2": "Nicole Thomas",
+"location": "Metro Community Center, Main Gym",
+"date": "2026-10-22",
+"time": "16:00"
+},
+{
+"id": 10,
+"contestant1": "Christopher Anderson",
+"contestant2": "Elizabeth Jackson",
+"location": "Lexington Arts Center, Studio 10",
+"date": "2026-10-23",
+"time": "09:00"
+},
+{
+"id": 11,
+"contestant1": "Daniel White",
+"contestant2": "Rebecca Harris",
+"location": "Anderson Event Venue, Room 201",
+"date": "2026-10-23",
+"time": "11:30"
+},
+{
+"id": 12,
+"contestant1": "Matthew Martin",
+"contestant2": "Kimberly Thompson",
+"location": "Summit Convention Center, Hall A",
+"date": "2026-10-23",
+"time": "14:30"
+},
+{
+"id": 13,
+"contestant1": "Anthony Garcia",
+"contestant2": "Lauren Martinez",
+"location": "Grand Banquet Hall, Sapphire Suite",
+"date": "2026-10-24",
+"time": "10:00"
+},
+{
+"id": 14,
+"contestant1": "Mark Robinson",
+"contestant2": "Michelle Clark",
+"location": "Metro Community Center, Room 12",
+"date": "2026-10-24",
+"time": "12:30"
+},
+{
+"id": 15,
+"contestant1": "Donald Rodriguez",
+"contestant2": "Heather Lewis",
+"location": "Lexington Arts Center, Main Amphitheater",
+"date": "2026-10-24",
+"time": "15:00"
+},
+{
+"id": 16,
+"contestant1": "Steven Lee",
+"contestant2": "Megan Walker",
+"location": "Anderson Event Venue, Room 105",
+"date": "2026-10-25",
+"time": "09:30"
+},
+{
+"id": 17,
+"contestant1": "Paul Hall",
+"contestant2": "Rachel Allen",
+"location": "Summit Convention Center, Meeting Room 3",
+"date": "2026-10-25",
+"time": "12:00"
+},
+{
+"id": 18,
+"contestant1": "Andrew Young",
+"contestant2": "Katherine King",
+"location": "Grand Banquet Hall, Emerald Lounge",
+"date": "2026-10-26",
+"time": "10:30"
+},
+{
+"id": 19,
+"contestant1": "Joshua Wright",
+"contestant2": "Christine Scott",
+"location": "Metro Community Center, Auditorium",
+"date": "2026-10-26",
+"time": "13:30"
+},
+{
+"id": 20,
+"contestant1": "Kenneth Green",
+"contestant2": "Samantha Baker",
+"location": "Lexington Arts Center, Gallery B",
+"date": "2026-10-27",
+"time": "09:00"
+},
+{
+"id": 21,
+"contestant1": "Kevin Adams",
+"contestant2": "Christine Nelson",
+"location": "Anderson Event Venue, Room 220",
+"date": "2026-10-27",
+"time": "11:00"
+},
+{
+"id": 22,
+"contestant1": "Brian Hill",
+"contestant2": "Catherine Ramirez",
+"location": "Summit Convention Center, Expo Hall 3",
+"date": "2026-10-27",
+"time": "14:00"
+},
+{
+"id": 23,
+"contestant1": "George Campbell",
+"contestant2": "Virginia Mitchell",
+"location": "Grand Banquet Hall, Crystal Ballroom",
+"date": "2026-10-28",
+"time": "10:00"
+},
+{
+"id": 24,
+"contestant1": "Edward Roberts",
+"contestant2": "Debra Carter",
+"location": "Metro Community Center, Room 8",
+"date": "2026-10-28",
+"time": "12:00"
+},
+{
+"id": 25,
+"contestant1": "Ronald Phillips",
+"contestant2": "Janet Evans",
+"location": "Lexington Arts Center, Black Box Theater",
+"date": "2026-10-29",
+"time": "09:30"
+},
+{
+"id": 26,
+"contestant1": "Timothy Turner",
+"contestant2": "Carolyn Torres",
+"location": "Anderson Event Venue, Conference Room C",
+"date": "2026-10-29",
+"time": "13:00"
+},
+{
+"id": 27,
+"contestant1": "Jason Parker",
+"contestant2": "Christine Collins",
+"location": "Summit Convention Center, Hall C",
+"date": "2026-10-30",
+"time": "10:00"
+},
+{
+"id": 28,
+"contestant1": "Jeffrey Edwards",
+"contestant2": "Marie Stewart",
+"location": "Grand Banquet Hall, Gold Room",
+"date": "2026-10-30",
+"time": "14:00"
+},
+{
+"id": 29,
+"contestant1": "Ryan Morris",
+"contestant2": "Janet Nguyen",
+"location": "Metro Community Center, North Wing",
+"date": "2026-10-31",
+"time": "11:00"
+},
+{
+"id": 30,
+"contestant1": "Gary Rogers",
+"contestant2": "Carolyn Ortiz",
+"location": "Lexington Arts Center, Recital Hall",
+"date": "2026-10-31",
+"time": "15:00"
+}
+]
